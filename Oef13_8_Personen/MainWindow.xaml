@@ -1,0 +1,13 @@
+﻿<Window x:Class="Oef13_8_Personen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Oef 13.8 Personen" Height="350" Width="260.777">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="229" Margin="25,25,0,0"
+                 VerticalAlignment="Top" Width="192"
+                 Name="persoonListBox" />
+        <Button Content="Details" HorizontalAlignment="Left" Margin="83,275,0,0"
+                VerticalAlignment="Top" Width="75" Name="detailsButton"
+                Click="detailsButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\Oef13_9_ComboBox.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\Oef13_9_ComboBox.Tests.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\Castle.Core.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\nunit.framework.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\TestStack.White.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\Castle.Core.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\nunit.framework.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\TestStack.White.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\bin\Debug\TestStack.White.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\obj\Debug\Oef13_9_ComboBox.Tests.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\obj\Debug\Oef13_9_ComboBox.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_9_ComboBox.Tests\obj\Debug\Oef13_9_ComboBox.Tests.pdb
