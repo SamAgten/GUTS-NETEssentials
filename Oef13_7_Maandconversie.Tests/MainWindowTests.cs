@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TestStack.White;
+using TestStack.White.UIItems;
+using TestStack.White.UIItems.Finders;
 using TestStack.White.UIItems.WindowItems;
 
 namespace Oef13_7_Maandconversie.Tests
@@ -14,6 +16,10 @@ namespace Oef13_7_Maandconversie.Tests
     public class MainWindowTests
     {
         private Application application;
+
+        private TextBox monthIndexTextBox = null;
+        private Button conversionButton = null;
+        private TextBox resultTextBox = null;
 
         [OneTimeSetUp]
         public void Setup()
@@ -30,6 +36,9 @@ namespace Oef13_7_Maandconversie.Tests
             try
             {
                 //Get all the UI items here
+                monthIndexTextBox = window.Get<TextBox>("monthNumberTextBox");
+                conversionButton = window.Get<Button>(SearchCriteria.ByText("is"));
+                resultTextBox = window.Get<TextBox>("monthNameTextBox");
             }
             catch (Exception)
             {
@@ -41,9 +50,47 @@ namespace Oef13_7_Maandconversie.Tests
         }
 
         [Test]
-        public void DeleteMe()
+        public void ShouldHaveResultTextBox()
         {
-            Assert.That(true, Is.True);
+            Assert.That(resultTextBox, Is.Not.Null);
+        }
+
+        [Test]
+        public void ShouldHaveConversionButton()
+        {
+            Assert.That(conversionButton, Is.Not.Null);
+        }
+
+
+        [Test]
+        public void ShouldHaveMonthNumberTextBox()
+        {
+            Assert.That(monthIndexTextBox, Is.Not.Null);
+        }
+
+        [Test]
+        [TestCase(1, "January")]
+        [TestCase(2, "February")]
+        [TestCase(3, "March")]
+        [TestCase(4, "April")]
+        [TestCase(5, "May")]
+        [TestCase(6, "June")]
+        [TestCase(7, "July")]
+        [TestCase(8, "August")]
+        [TestCase(9, "September")]
+        [TestCase(10, "October")]
+        [TestCase(11, "November")]
+        [TestCase(12, "December")]
+        public void ShouldDoSomeProperConversion(int index, string month)
+        {
+            //input the number
+            monthIndexTextBox.Text = "" + index;
+
+            //press the button
+            conversionButton.Click();
+
+            //Check the result
+            Assert.That(resultTextBox.Text, Is.EqualTo(month));
         }
 
         [OneTimeTearDown]
