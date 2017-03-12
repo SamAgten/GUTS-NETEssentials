@@ -11,3 +11,6 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_4_VervangItem\obj\Debug\Oef13_4_Ve
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.csproj.GenerateResource.Cache
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\bin\Debug\Oef13_4_VervangItem.exe.config
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.pdb

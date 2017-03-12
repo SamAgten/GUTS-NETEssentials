@@ -11,3 +11,6 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.Pr
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.csproj.GenerateResource.Cache
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\bin\Debug\Oef13_3_Clear.exe.config
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.pdb
