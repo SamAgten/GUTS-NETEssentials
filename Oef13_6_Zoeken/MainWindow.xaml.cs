@@ -38,11 +38,11 @@ namespace Oef13_6_Zoeken
             {
                 string msg = String.Format("Item gevonden op positie {0}",
                                 seriesListBox.Items.IndexOf(findTextBox.Text));
-                MessageBox.Show(msg);
+                MessageBox.Show(msg, "Gevonden");
             }
             else
             {
-                MessageBox.Show("Item niet gevonden");
+                MessageBox.Show("Item niet gevonden", "Niet gevonden");
             }
         }
     }
