@@ -10,3 +10,15 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_5_ToevoegenVerwijderen.Tests\bin\D
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.csprojResolveAssemblyReference.cache
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.dll
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\Oef13_5_ToevoegenVerwijderen.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\Oef13_5_ToevoegenVerwijderen.Tests.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\Castle.Core.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\nunit.framework.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\TestStack.White.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\Castle.Core.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\nunit.framework.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\TestStack.White.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\bin\Debug\TestStack.White.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_5_ToevoegenVerwijderen.Tests\obj\Debug\Oef13_5_ToevoegenVerwijderen.Tests.pdb

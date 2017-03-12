@@ -43,7 +43,8 @@ namespace Oef13_5_ToevoegenVerwijderen
         {
             ListBoxItem item = new ListBoxItem();
             item.Content = itemTextBox.Text;
-            seriesListBox.Items.Add(item);
+            seriesListBox.Items.Insert(Convert.ToInt32(posTextBox.Text), item); //.Add(item);
+
         }
 
         private void clearButton_Click(object sender, RoutedEventArgs e)
