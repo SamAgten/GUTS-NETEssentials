@@ -8,6 +8,7 @@ namespace Oef13_8_Personen
 {
     public class Persoon
     {
+        public Persoon() { }
         public Persoon(string naam,
                        string voornaam,
                        string adres,

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_7_Maandconversie", "Oef13_7_Maandconversie.csproj", "{38F39DD7-0F55-40E5-8B9D-54B9BA38C661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_7_Maandconversie.Tests", "..\Oef13_7_Maandconversie.Tests\Oef13_7_Maandconversie.Tests.csproj", "{FA64F316-0818-486B-87C8-9385079B5B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F39DD7-0F55-40E5-8B9D-54B9BA38C661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F39DD7-0F55-40E5-8B9D-54B9BA38C661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F39DD7-0F55-40E5-8B9D-54B9BA38C661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F39DD7-0F55-40E5-8B9D-54B9BA38C661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA64F316-0818-486B-87C8-9385079B5B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64F316-0818-486B-87C8-9385079B5B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64F316-0818-486B-87C8-9385079B5B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64F316-0818-486B-87C8-9385079B5B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

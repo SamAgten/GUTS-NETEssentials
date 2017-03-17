@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_1_VerwijderItems", "Oef13_1_VerwijderItems.csproj", "{724E6FE6-CD91-4162-89EB-B7B783CBAD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_1_VerwijderItems.Tests", "..\Oef13_1_VerwijderItems.Tests\Oef13_1_VerwijderItems.Tests.csproj", "{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724E6FE6-CD91-4162-89EB-B7B783CBAD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724E6FE6-CD91-4162-89EB-B7B783CBAD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724E6FE6-CD91-4162-89EB-B7B783CBAD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724E6FE6-CD91-4162-89EB-B7B783CBAD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
