@@ -23,34 +23,6 @@ namespace Oef13_2_SorteerItems
         public MainWindow()
         {
             InitializeComponent();
-
-            Sort();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            object obj = seriesListBox.SelectedItem;
-            if (obj != null)
-                seriesListBox.Items.Remove(obj);
-        }
-
-        private void addButton_Click(object sender, RoutedEventArgs e)
-        {
-            
-            
-            ListBoxItem item = new ListBoxItem();
-            item.Content = itemTextBox.Text;
-            seriesListBox.Items.Add(item);
-            Sort();
-        }
-
-        private void Sort()
-        {
-            //bron: http://www.c-sharpcorner.com/resources/855/sorting-a-wpf-listbox-items.aspx
-            seriesListBox.Items.SortDescriptions.Clear();
-            seriesListBox.Items.SortDescriptions.Add(
-                        new System.ComponentModel.SortDescription("Content",
-                        System.ComponentModel.ListSortDirection.Ascending));
         }
     }
 }

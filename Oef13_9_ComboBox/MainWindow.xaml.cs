@@ -25,22 +25,5 @@ namespace Oef13_9_ComboBox
             InitializeComponent();
         }
 
-        private void colorComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            ComboBoxItem item = (ComboBoxItem)colorComboBox.SelectedItem;
-            string selectedColor = Convert.ToString(item.Content);
-            switch (selectedColor)
-            {
-                case "Red":
-                    colorLabel.Background = new SolidColorBrush(Colors.Red);
-                    break;
-                case "Green":
-                    colorLabel.Background = new SolidColorBrush(Colors.Green);
-                    break;
-                case "Blue":
-                    colorLabel.Background= new SolidColorBrush(Colors.Blue);
-                    break;
-            }
-        }
     }
 }

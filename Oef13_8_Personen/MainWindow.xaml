@@ -7,7 +7,6 @@
                  VerticalAlignment="Top" Width="192"
                  Name="persoonListBox" />
         <Button Content="Details" HorizontalAlignment="Left" Margin="83,275,0,0"
-                VerticalAlignment="Top" Width="75" Name="detailsButton"
-                Click="detailsButton_Click"/>
+                VerticalAlignment="Top" Width="75" Name="detailsButton"/>
     </Grid>
 </Window>

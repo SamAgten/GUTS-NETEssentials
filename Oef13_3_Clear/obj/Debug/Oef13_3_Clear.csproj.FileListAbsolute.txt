@@ -14,3 +14,13 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.pd
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\bin\Debug\Oef13_3_Clear.exe.config
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\bin\Debug\Oef13_3_Clear.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\bin\Debug\Oef13_3_Clear.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\MainWindow.baml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\MainWindow.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\App.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear_MarkupCompile.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.g.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.Properties.Resources.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear\obj\Debug\Oef13_3_Clear.csproj.GenerateResource.Cache

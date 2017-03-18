@@ -11,20 +11,19 @@
             <ListBoxItem>Prinsessia</ListBoxItem>
         </ListBox>
         <Button Content="Verwijder" HorizontalAlignment="Left" Margin="127,152,0,0"
-                VerticalAlignment="Top" Width="75"
-                Click="Button_Click"/>
+                VerticalAlignment="Top" Width="75"/>
         <Button Content="Voeg toe" HorizontalAlignment="Left" Margin="40,53,0,0"
                 VerticalAlignment="Top" Width="75"
-                Name="addButton" Click="addButton_Click"/>
+                Name="addButton"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="40,25,0,0"
                  VerticalAlignment="Top" Width="120"
                  Name="itemTextBox"/>
         <Button Content="Wis lijst" HorizontalAlignment="Left" Margin="40,152,0,0"
         	VerticalAlignment="Top" Width="75" Name="clearButton"
-        	Click="clearButton_Click"/>
+        	/>
         <Button Content="Vervang" HorizontalAlignment="Left" Margin="40,117,0,0"
         	VerticalAlignment="Top" Width="75"
-        	x:Name="replaceButton" Click="replaceButton_Click"/>
+        	x:Name="replaceButton"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="40,89,0,0"
         	VerticalAlignment="Top" Width="120"
         	x:Name="replaceTextBox"/>

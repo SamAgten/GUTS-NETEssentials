@@ -10,7 +10,7 @@
                  Name="monthNumberTextBox"/>
         <Button Content="is" HorizontalAlignment="Left" Margin="143,24,0,0"
                 VerticalAlignment="Top" Width="40" Height="23"
-                Name="lookupButton" Click="lookupButton_Click"/>
+                Name="lookupButton"/>
         <TextBox HorizontalAlignment="Left" Height="23"
         	Margin="203,24,0,0" VerticalAlignment="Top" Width="120"
         	Name="monthNameTextBox"/>

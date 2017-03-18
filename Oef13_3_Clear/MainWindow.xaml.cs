@@ -24,24 +24,5 @@ namespace Oef13_3_Clear
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            object obj = seriesListBox.SelectedItem;
-            if (obj != null)
-                seriesListBox.Items.Remove(obj);
-        }
-
-        private void addButton_Click(object sender, RoutedEventArgs e)
-        {
-            ListBoxItem item = new ListBoxItem();
-            item.Content = itemTextBox.Text;
-            seriesListBox.Items.Add(item);
-        }
-
-        private void clearButton_Click(object sender, RoutedEventArgs e)
-        {
-            seriesListBox.Items.Clear();
-        }
     }
 }

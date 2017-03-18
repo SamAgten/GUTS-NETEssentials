@@ -25,14 +25,6 @@ namespace Oef13_8_Personen
         {
             InitializeComponent();
 
-            persoon = p;
-            naamTextBox.Text = persoon.Naam;
-            voornaamTextBox.Text = persoon.Voornaam;
-            adresTextBox.Text = persoon.Adres;
-            manRadioButton.IsChecked = (persoon.Geslacht == GeslachtEnum.M);
-            vrouwRadioButton.IsChecked = (persoon.Geslacht == GeslachtEnum.V);
-            telTextBox.Text = persoon.Telefoon;
-            geborenTextBox.Text = String.Format("{0:d}", persoon.GeboorteDatum);
         }
     }
 }

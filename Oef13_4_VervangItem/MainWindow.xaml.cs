@@ -24,34 +24,5 @@ namespace Oef13_4_VervangItem
         {
             InitializeComponent();
         }
-
-        private void replaceButton_Click(object sender, RoutedEventArgs e)
-        {
-            int index = seriesListBox.SelectedIndex;
-            if (index > -1)
-            {
-                seriesListBox.Items.RemoveAt(index);
-                seriesListBox.Items.Insert(index, replaceTextBox.Text);
-            }
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            object obj = seriesListBox.SelectedItem;
-            if (obj != null)
-                seriesListBox.Items.Remove(obj);
-        }
-
-        private void addButton_Click(object sender, RoutedEventArgs e)
-        {
-            ListBoxItem item = new ListBoxItem();
-            item.Content = itemTextBox.Text;
-            seriesListBox.Items.Add(item);
-        }
-
-        private void clearButton_Click(object sender, RoutedEventArgs e)
-        {
-            seriesListBox.Items.Clear();
-        }
     }
 }

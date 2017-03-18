@@ -5,11 +5,8 @@
     <Grid>
         <ComboBox HorizontalAlignment="Left" Margin="98,23,0,0"
                   VerticalAlignment="Top" Width="140"
-                  Name="colorComboBox" SelectionChanged="colorComboBox_SelectionChanged"
+                  Name="colorComboBox"
                   >
-            <ComboBoxItem>Red</ComboBoxItem>
-            <ComboBoxItem>Green</ComboBoxItem>
-            <ComboBoxItem>Blue</ComboBoxItem>
         </ComboBox>
         <Label HorizontalAlignment="Left"
                Margin="28,74,0,0" VerticalAlignment="Top" Height="128"

@@ -8,7 +8,7 @@
                  Name="seriesListBox">
         </ListBox>
         <Button Content="Zoek" HorizontalAlignment="Left" Margin="25,152,0,0"
-                VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+                VerticalAlignment="Top" Width="100"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="181,153,0,0"
                  Name="findTextBox" VerticalAlignment="Top" Width="120"/>
     </Grid>

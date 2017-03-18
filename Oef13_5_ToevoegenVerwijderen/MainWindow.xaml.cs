@@ -24,32 +24,5 @@ namespace Oef13_5_ToevoegenVerwijderen
         {
             InitializeComponent();
         }
-        private void replaceButton_Click(object sender, RoutedEventArgs e)
-        {
-            int index = seriesListBox.SelectedIndex;
-            if (index > -1)
-            {
-                seriesListBox.Items.RemoveAt(index);
-                seriesListBox.Items.Insert(index, replaceTextBox.Text);
-            }
-        }
-
-        private void verwijderButton_Click(object sender, RoutedEventArgs e)
-        {
-            seriesListBox.Items.RemoveAt(Convert.ToInt32(posTextBox.Text));
-        }
-
-        private void addButton_Click(object sender, RoutedEventArgs e)
-        {
-            ListBoxItem item = new ListBoxItem();
-            item.Content = itemTextBox.Text;
-            seriesListBox.Items.Insert(Convert.ToInt32(posTextBox.Text), item); //.Add(item);
-
-        }
-
-        private void clearButton_Click(object sender, RoutedEventArgs e)
-        {
-            seriesListBox.Items.Clear();
-        }
     }
 }

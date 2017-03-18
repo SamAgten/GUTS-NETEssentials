@@ -20,20 +20,12 @@ namespace Oef13_8_Personen
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<Persoon> persoonslijst;
         
         public MainWindow()
         {
             InitializeComponent();
 
-            persoonslijst = new List<Persoon>();
-            persoonslijst.Add(new Persoon("Hermans", "Kris", "Kerkhof 24, 3560 Houthalen", new DateTime(1975, 5, 15), "1234567", GeslachtEnum.M));
-            persoonslijst.Add(new Persoon("Stasik", "Marijke", "Kerkhof 24, 3560 Houthalen", new DateTime(1975, 2, 14), "12345667", GeslachtEnum.V));
-            persoonslijst.Add(new Persoon("Hermans", "Ella", "Kerkhof 24, 3560 Houthalen", new DateTime(2003, 12, 25), "1234567", GeslachtEnum.V));
-            persoonslijst.Add(new Persoon("Hermans", "Gilles", "Kerkhof 24, 3560 Houthalen", new DateTime(2008, 9, 29), "1234567", GeslachtEnum.M));
-
-            // we doen het hier iets geavanceerder via data binding
-            persoonListBox.ItemsSource = persoonslijst;
+          
         }
 
         
@@ -42,12 +34,7 @@ namespace Oef13_8_Personen
         // Daarom hier met Click gewerkt.
         private void detailsButton_Click(object sender, RoutedEventArgs e)
         {
-            if (persoonListBox.SelectedItem != null)
-            {
-                Persoon p = (Persoon)persoonListBox.SelectedItem;
-                Window w = new DetailsWindow(p);
-                w.Show();
-            }
+           
         }
     }
 }

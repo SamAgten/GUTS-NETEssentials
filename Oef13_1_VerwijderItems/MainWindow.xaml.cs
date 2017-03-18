@@ -23,21 +23,6 @@ namespace Oef13_1_VerwijderItems
         public MainWindow()
         {
             InitializeComponent();
-            singersListBox.SelectionChanged += singersListBox_SelectionChanged;
-        }
-
-        void singersListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            object obj = singersListBox.SelectedItem;
-            if (obj != null)
-                singersListBox.Items.Remove(obj);
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            object obj = seriesListBox.SelectedItem;
-            if (obj != null)
-                seriesListBox.Items.Remove(obj);
         }
     }
 }

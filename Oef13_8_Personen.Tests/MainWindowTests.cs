@@ -22,46 +22,46 @@ namespace Oef13_8_Personen.Tests
         private Button detailButton;
 
         #region DUMMY DATA
-        private List<Persoon> people = new List<Persoon>()
-            {
-                new Persoon()
-                {
-                    Naam="Hermans",
-                    Voornaam="Kris",
-                    Adres="Kerkhof 24, 3560 Houthalen",
-                    GeboorteDatum = new DateTime(1975, 5, 15),
-                    Telefoon="1234567",
-                    Geslacht=GeslachtEnum.M
-                },
-                new Persoon()
-                {
-                    Naam="Stasik",
-                    Voornaam="Marijke",
-                    Adres="Kerkhof 24, 3560 Houthalen",
-                    GeboorteDatum = new DateTime(1975, 2, 14),
-                    Telefoon="12345667",
-                    Geslacht=GeslachtEnum.V
-                },
-                new Persoon()
-                {
-                    Naam="Hermans",
-                    Voornaam="Ella",
-                    Adres="Kerkhof 24, 3560 Houthalen",
-                    GeboorteDatum=new DateTime(2003, 12, 25),
-                    Telefoon="1234567",
-                    Geslacht=GeslachtEnum.V
-                },
+        //private List<Persoon> people = new List<Persoon>()
+        //    {
+        //        new Persoon()
+        //        {
+        //            Naam="Hermans",
+        //            Voornaam="Kris",
+        //            Adres="Kerkhof 24, 3560 Houthalen",
+        //            GeboorteDatum = new DateTime(1975, 5, 15),
+        //            Telefoon="1234567",
+        //            Geslacht=GeslachtEnum.M
+        //        },
+        //        new Persoon()
+        //        {
+        //            Naam="Stasik",
+        //            Voornaam="Marijke",
+        //            Adres="Kerkhof 24, 3560 Houthalen",
+        //            GeboorteDatum = new DateTime(1975, 2, 14),
+        //            Telefoon="12345667",
+        //            Geslacht=GeslachtEnum.V
+        //        },
+        //        new Persoon()
+        //        {
+        //            Naam="Hermans",
+        //            Voornaam="Ella",
+        //            Adres="Kerkhof 24, 3560 Houthalen",
+        //            GeboorteDatum=new DateTime(2003, 12, 25),
+        //            Telefoon="1234567",
+        //            Geslacht=GeslachtEnum.V
+        //        },
 
-                new Persoon()
-                {
-                    Naam="Hermans",
-                    Voornaam="Gilles",
-                    Adres="Kerkhof 24, 3560 Houthalen",
-                    GeboorteDatum=new DateTime(2008, 9, 29),
-                    Telefoon="1234567",
-                    Geslacht=GeslachtEnum.M
-                }
-            };
+        //        new Persoon()
+        //        {
+        //            Naam="Hermans",
+        //            Voornaam="Gilles",
+        //            Adres="Kerkhof 24, 3560 Houthalen",
+        //            GeboorteDatum=new DateTime(2008, 9, 29),
+        //            Telefoon="1234567",
+        //            Geslacht=GeslachtEnum.M
+        //        }
+        //    };
         #endregion
 
         [OneTimeSetUp]

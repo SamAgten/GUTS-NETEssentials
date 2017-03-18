@@ -10,3 +10,15 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear.Tests\bin\Debug\TestStack.
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.csprojResolveAssemblyReference.cache
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.dll
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\Oef13_3_Clear.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\Oef13_3_Clear.Tests.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\Castle.Core.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\nunit.framework.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\TestStack.White.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\Castle.Core.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\nunit.framework.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\TestStack.White.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\bin\Debug\TestStack.White.xml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.dll
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_3_Clear.Tests\obj\Debug\Oef13_3_Clear.Tests.pdb
