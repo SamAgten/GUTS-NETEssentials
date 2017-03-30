@@ -14,3 +14,13 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_7_Maandconversie\obj\Debug\Oef13_7
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\bin\Debug\Oef13_7_Maandconversie.exe.config
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\bin\Debug\Oef13_7_Maandconversie.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\bin\Debug\Oef13_7_Maandconversie.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\MainWindow.baml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\MainWindow.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\App.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie_MarkupCompile.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.g.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.Properties.Resources.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_7_Maandconversie\obj\Debug\Oef13_7_Maandconversie.csproj.GenerateResource.Cache

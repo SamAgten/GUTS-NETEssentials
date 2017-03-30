@@ -14,3 +14,13 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_4_VervangItem\obj\Debug\Oef13_4_Ve
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\bin\Debug\Oef13_4_VervangItem.exe.config
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\bin\Debug\Oef13_4_VervangItem.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\bin\Debug\Oef13_4_VervangItem.pdb
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.csprojResolveAssemblyReference.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\MainWindow.baml
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\MainWindow.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\App.g.cs
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem_MarkupCompile.cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.g.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.Properties.Resources.resources
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_4_VervangItem\obj\Debug\Oef13_4_VervangItem.csproj.GenerateResource.Cache

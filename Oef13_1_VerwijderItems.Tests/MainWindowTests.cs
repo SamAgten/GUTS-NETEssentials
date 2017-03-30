@@ -26,13 +26,14 @@ namespace Oef13_1_VerwijderItems.Tests
         [OneTimeSetUp]
         public void OneTimeSetup()
         {
-            var applicationDirectory = TestContext.CurrentContext.TestDirectory;
-            TestContext.Progress.WriteLine("HELLO WORLD: " + applicationDirectory);
+            var testDirectory = TestContext.CurrentContext.TestDirectory;
 
             string projectName = "Oef13_1_VerwijderItems";
             //var applicationPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + projectName;
-            var applicationPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + "bin" + Path.DirectorySeparatorChar + "Debug";
-            applicationPath = Path.Combine(applicationPath, projectName + ".exe");
+            var applicationPath = Directory.GetParent(testDirectory).Parent.Parent.FullName;
+            applicationPath = Path.Combine(applicationPath, projectName, @"bin\Debug", projectName + ".exe");
+            //var applicationPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + "bin" + Path.DirectorySeparatorChar + "Debug";
+            //applicationPath = Path.Combine(applicationPath, projectName + ".exe");
             TestContext.Progress.WriteLine("Using EXE: " + applicationPath);
             application = Application.Launch(applicationPath);
             Window window = application.GetWindow("Oef 13.1 Verwijderen");      //This needs to be the title of the window, not the name of the class

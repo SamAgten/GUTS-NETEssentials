@@ -33,11 +33,14 @@ namespace Oef13_5_ToevoegenVerwijderen.Tests
         [SetUp]
         public void Setup()
         {
-            var applicationDirectory = TestContext.CurrentContext.TestDirectory;
+            var testDirectory = TestContext.CurrentContext.TestDirectory;
 
             string projectName = "Oef13_5_ToevoegenVerwijderen";
-            var applicationPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + "bin" + Path.DirectorySeparatorChar + "Debug";
-            applicationPath = Path.Combine(applicationPath, projectName + ".exe");
+
+            var applicationPath = Directory.GetParent(testDirectory).Parent.Parent.FullName;
+            applicationPath = Path.Combine(applicationPath, projectName, @"bin\Debug", projectName + ".exe");
+            //var applicationPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + "bin" + Path.DirectorySeparatorChar + "Debug";
+            //applicationPath = Path.Combine(applicationPath, projectName + ".exe");
             TestContext.Progress.WriteLine("Using EXE: " + applicationPath);
             application = Application.Launch(applicationPath);
             Window window = application.GetWindow("Oef 13.5 Toevoegen / Verwijderen");      //This needs to be the title of the window, not the name of the class
