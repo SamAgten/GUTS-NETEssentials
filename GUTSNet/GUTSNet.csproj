@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}</ProjectGuid>
+    <ProjectGuid>{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Oef13_1_VerwijderItems.Tests</RootNamespace>
-    <AssemblyName>Oef13_1_VerwijderItems.Tests</AssemblyName>
+    <RootNamespace>GUTSNet</RootNamespace>
+    <AssemblyName>GUTSNet</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,10 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
-      <HintPath>..\Oef13_1_VerwijderItems\packages\Castle.Core.3.3.0\lib\net45\Castle.Core.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="Mono.Cecil, Version=0.9.6.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <HintPath>..\Oef13_1_VerwijderItems\packages\NUnit.Engine.3.6.1\lib\Mono.Cecil.dll</HintPath>
       <Private>True</Private>
@@ -58,26 +54,16 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="TestStack.White, Version=0.13.0.0, Culture=neutral, PublicKeyToken=2672efbf3e161801, processorArchitecture=MSIL">
-      <HintPath>..\Oef13_1_VerwijderItems\packages\TestStack.White.0.13.3\lib\net40\TestStack.White.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainWindowTests.cs" />
+    <Compile Include="GUTSSuiteAttribute.cs" />
+    <Compile Include="GUTSTestAttribute.cs" />
+    <Compile Include="GUTSTestManager.cs" />
+    <Compile Include="GUTSTestResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\GUTSNet\GUTSNet.csproj">
-      <Project>{6c1c0c6f-4e14-4e83-8bcb-765955afddde}</Project>
-      <Name>GUTSNet</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

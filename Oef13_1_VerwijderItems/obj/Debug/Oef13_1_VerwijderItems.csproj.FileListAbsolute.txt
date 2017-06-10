@@ -13,8 +13,6 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_1_VerwijderItems\obj\Debug\Oef13_1
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_1_VerwijderItems\bin\Debug\Castle.Core.dll
 E:\Documents\PXL\GUTS\NETEssentials\H13\Oef13_1_VerwijderItems\bin\Debug\Castle.Core.xml
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\bin\Debug\Oef13_1_VerwijderItems.exe.config
-E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.exe
-E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.pdb
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\bin\Debug\Oef13_1_VerwijderItems.exe
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\bin\Debug\Oef13_1_VerwijderItems.pdb
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\bin\Debug\Castle.Core.dll
@@ -27,3 +25,5 @@ E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItem
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.g.resources
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.Properties.Resources.resources
 E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.csproj.GenerateResource.Cache
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.exe
+E:\Documents\PXL\GUTS\NETEssentials\H13\GUTS-NETEssentials\Oef13_1_VerwijderItems\obj\Debug\Oef13_1_VerwijderItems.pdb

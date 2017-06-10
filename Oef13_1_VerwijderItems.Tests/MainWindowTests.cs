@@ -1,12 +1,8 @@
-﻿using NUnit.Framework;
+﻿using GUTSNet;
+using NUnit.Framework;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TestStack.White;
-using TestStack.White.Factory;
 using TestStack.White.UIItems;
 using TestStack.White.UIItems.Finders;
 using TestStack.White.UIItems.ListBoxItems;
@@ -14,7 +10,7 @@ using TestStack.White.UIItems.WindowItems;
 
 namespace Oef13_1_VerwijderItems.Tests
 {
-    [TestFixture]
+    [TestFixture, GUTSSuite]
     public class MainWindowTests
     {
         private ListBox singersListBox = null;
@@ -54,25 +50,31 @@ namespace Oef13_1_VerwijderItems.Tests
             }
         }
 
-        [Test]
+        //[TearDown]
+        //public void Teardown()
+        //{
+        //    TestContext.Progress.WriteLine(TestContext.CurrentContext.Test.Name + " has " + TestContext.CurrentContext.Result.Outcome.Status);
+        //}
+
+        [Test, GUTSTest("Should have Singer Listbox")]
         public void ShouldHaveSingersListBox()
         {
             Assert.That(singersListBox, Is.Not.Null);
         }
 
-        [Test]
+        [Test, GUTSTest("Shoud have Series Listbox")]
         public void ShouldHaveSeriesListBox()
         {
             Assert.That(seriesListBox, Is.Not.Null);
         }
 
-        [Test]
+        [Test, GUTSTest("Should have delete button")]
         public void ShouldHaveDeleteButton()
         {
             Assert.That(deleteButton, Is.Not.Null);
         }
 
-        [Test]
+        [Test, GUTSTest("Should delete singer when clicking singer")]
         [Repeat(2)]
         public void ShouldDeleteSingerWhenClickingSinger()
         {
@@ -85,7 +87,7 @@ namespace Oef13_1_VerwijderItems.Tests
             Assert.That(singersListBox.Items.Count, Is.EqualTo(countBefore - 1));
         }
 
-        [Test]
+        [Test, GUTSTest("Should delete series when clicking button")]
         [Repeat(2)]
         public void ShouldDeleteSeriesWhenClickingButton()
         {
@@ -101,7 +103,7 @@ namespace Oef13_1_VerwijderItems.Tests
             Assert.That(seriesListBox.Items.Count, Is.EqualTo(countBefore - 1));
         }
 
-        [Test]
+        [Test, GUTSTest("Should not delete series when clicking button and nothing is selected")]
         [Repeat(5)]
         public void ShouldNotDeleteSeriesWhenClickingButtonAndNothingIsSelected()
         {
@@ -113,7 +115,7 @@ namespace Oef13_1_VerwijderItems.Tests
             Assert.That(seriesListBox.Items.Count, Is.EqualTo(countBefore));
         }
 
-        [Test]
+        [Test, GUTSTest("Should not delete singer when clicking button and nothing is selected")]
         [Repeat(5)]
         public void ShouldNotDeleteSingerWhenClickingButtonAndNothingIsSelected()
         {

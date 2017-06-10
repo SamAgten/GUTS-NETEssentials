@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_1_VerwijderItems", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_1_VerwijderItems.Tests", "..\Oef13_1_VerwijderItems.Tests\Oef13_1_VerwijderItems.Tests.csproj", "{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUTSNet", "..\GUTSNet\GUTSNet.csproj", "{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF4087BD-EE64-4651-A1A7-3E17820DBDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1C0C6F-4E14-4E83-8BCB-765955AFDDDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
